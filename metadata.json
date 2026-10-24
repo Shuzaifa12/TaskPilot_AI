@@ -1,0 +1,6 @@
+{
+  "name": "TaskPilot AI",
+  "description": "From messy requests to clear action. Transform unstructured client messages into organized tasks, missing info questions, and professional replies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
